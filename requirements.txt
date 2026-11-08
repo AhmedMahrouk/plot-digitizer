@@ -1,0 +1,5 @@
+streamlit>=1.50
+streamlit-image-coordinates>=0.4.1
+pillow>=10.1
+numpy>=1.26
+pandas>=2.0
